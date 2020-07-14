@@ -1,5 +1,7 @@
 # Introduction
 
+This document illustrates some of the core functionalities of the CSUN Career Center application. The application was developed using React-Native; for more information about the implementation, please refer the official documentation.
+
 ## onBoarding Module
 
 ---
